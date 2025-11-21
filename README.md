@@ -4,8 +4,9 @@ This is basically to showcase my understanding in usage of grid in CSS, this doe
 
 **Preview:** https://arjun7n9s.github.io/MyfirstCSS.Website/
 
-_**This image is the reference for this site.**_
+_**This image was the reference for this site.**_
 
 ![Web Design Examples](https://github.com/user-attachments/assets/ff67c69a-038a-4d3d-ac1b-dca1bd12fc3b)
+
 
 
